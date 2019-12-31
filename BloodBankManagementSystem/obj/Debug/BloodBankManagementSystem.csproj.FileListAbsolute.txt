@@ -1,0 +1,225 @@
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\BloodBankManagementSystem.dll.config
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\BloodBankManagementSystem.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\BloodBankManagementSystem.pdb
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csc.exe
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csc.exe.config
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csc.rsp
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csi.exe
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csi.exe.config
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csi.rsp
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.AppContext.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Console.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.IO.Compression.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Net.Http.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Net.Sockets.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.ValueTuple.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Xml.XPath.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\vbc.exe
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\vbc.exe.config
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\vbc.rsp
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\VBCSCompiler.exe
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\EntityFramework.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\EntityFramework.SqlServer.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Helpers.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Mvc.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Razor.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.Deployment.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.Razor.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\EntityFramework.xml
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\EntityFramework.SqlServer.xml
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Razor.xml
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.xml
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.Deployment.xml
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.Razor.xml
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Helpers.xml
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Mvc.xml
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.CopyComplete
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.dll
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.pdb
+D:\.NET\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csprojAssemblyReference.cache
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\BloodBankManagementSystem.dll.config
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\BloodBankManagementSystem.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\BloodBankManagementSystem.pdb
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csc.exe
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csc.rsp
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csi.exe
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csi.rsp
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\vbc.exe
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\EntityFramework.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Razor.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\EntityFramework.xml
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Razor.xml
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.xml
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.CopyComplete
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.dll
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.pdb
+C:\Users\PROPHET\Downloads\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csprojAssemblyReference.cache
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\BloodBankManagementSystem.dll.config
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\BloodBankManagementSystem.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\BloodBankManagementSystem.pdb
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csc.exe
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csc.exe.config
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csc.rsp
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csi.exe
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csi.exe.config
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\csi.rsp
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.AppContext.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Console.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.IO.Compression.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Net.Http.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Net.Sockets.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.ValueTuple.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Xml.XPath.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\vbc.exe
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\vbc.exe.config
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\vbc.rsp
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\VBCSCompiler.exe
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\EntityFramework.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\EntityFramework.SqlServer.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Helpers.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Mvc.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Razor.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.Deployment.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.Razor.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\EntityFramework.xml
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\EntityFramework.SqlServer.xml
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Razor.xml
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.xml
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.Deployment.xml
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Webpages.Razor.xml
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Helpers.xml
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\System.Web.Mvc.xml
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csprojAssemblyReference.cache
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.CopyComplete
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.dll
+I:\BloodBankManagementSystem UI fix\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.pdb

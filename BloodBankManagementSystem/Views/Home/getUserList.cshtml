@@ -1,0 +1,55 @@
+﻿@model IEnumerable<BloodBankManagementSystem.User>
+
+@{
+    ViewBag.Title = "getUserList";
+}
+    <link href="~/CustomsStyleSheet/indexemployeeSheet.css" rel="stylesheet" />
+    <h1 class="text-right" style="font-family: 'Anton', sans-serif;">User List</h1>
+
+<table class="table table-bordered table-hover">
+    <tr>
+        <th>
+         User Role
+        </th>
+        <th>
+            Password
+        </th>
+        <th>
+           Email
+        </th>
+       
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        @*<td>
+            @if (User.IsInRole("Admin")) { 
+                <div class="dropdown">
+                    <button class="btn btn-primary dropdown-toggle" type="button" id="about-us" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Options
+                        <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="about-us">
+                        <li>@Html.ActionLink("Edit", "Edit", new { id = item.UserId })</li>
+                        <li>@Html.ActionLink("Details", "Details", new { id = item.UserId }) </li>
+                        <li>@Html.ActionLink("Delete", "Delete", new { id = item.UserId })</li>
+                    </ul>
+                </div>
+             
+            
+            
+            }
+        </td>*@
+    </tr>
+}
+
+</table>

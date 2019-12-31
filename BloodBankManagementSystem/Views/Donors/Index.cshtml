@@ -1,0 +1,103 @@
+﻿@model IEnumerable<BloodBankManagementSystem.Donor>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/CustomsStyleSheet/indexemployeeSheet.css" rel="stylesheet" />
+
+<h1 class="text-right" style="font-family: 'Anton', sans-serif;">Donor List</h1>
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        @Html.ActionLink("Create New", "Create",null,new{@class="btn btn-danger", @style="width: 200px; margin: 0 auto; display: block;"})
+    </p>
+}
+
+<center>
+    @using (Html.BeginForm("Index", "Donors", FormMethod.Get))
+    {
+        <span style="color:coral">Search By: </span> @Html.RadioButton("searchBy", "DonorName") <text>Name</text>
+        @Html.RadioButton("searchBy", "Address") <text>Address</text> <br />
+        @Html.TextBox("search") <button type="submit" class="btn btn-danger">
+            <span class="glyphicon glyphicon-search"></span> Search
+        </button>
+    }
+</center>
+<br />
+<br />
+<table class="table table-bordered table-hover  table-condensed">
+   
+        <th>Donor Name</th>
+        <th>Donor Birth Date</th>
+        <th>Contact No</th>
+        <th>Email</th>
+        <th>Donation Date</th>
+        <th>Addess</th>
+        <th>Gender</th>
+        <th>Blood Group</th>
+        @if (User.IsInRole("Admin"))
+        {
+            <th>Options</th>
+        }
+
+   
+    @if (Model.Count() == 0)
+    {
+        <tr>
+            <td colspan="10"><center style="color:white"> <span class="glyphicon glyphicon-exclamation-sign"></span> No rows match search criteria</center></td>
+        </tr>
+    }
+    else
+    {
+        foreach (var item in Model)
+        {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.DonorName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Birth_Date)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ContactNo)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Email)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Donation_Date)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Address)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Gender.Gender1)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.BloodStock.BloodName)
+    </td>
+    @if (User.IsInRole("Admin"))
+    {
+        <td>
+
+            <div class="dropdown">
+                <button class="btn btn-primary dropdown-toggle" type="button" id="about-us" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Options
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="about-us">
+                    <li>@Html.ActionLink("Edit", "Edit", new { id = item.DonorId })</li>
+                    <li>@Html.ActionLink("Details", "Details", new { id = item.DonorId })</li>
+                    <li>@Html.ActionLink("Delete", "Delete", new { id = item.DonorId })</li>
+                </ul>
+            </div>
+            
+
+        </td>
+    }
+    </tr>
+        }
+    }
+
+</table>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a48e4ffedd0641ea955202dfa0f2a618" Name="Diagram1">
+        <EntityTypeShape EntityType="BBSystemDBModel.BloodDetail" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="BBSystemDBModel.BloodStock" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BBSystemDBModel.Donor" Width="1.5" PointX="3" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BBSystemDBModel.Employee" Width="1.5" PointX="3" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BBSystemDBModel.Gender" Width="1.5" PointX="0.75" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="BBSystemDBModel.Patient" Width="1.5" PointX="6" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BBSystemDBModel.RequestBlood" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BBSystemDBModel.User" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BBSystemDBModel.userrole" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="BBSystemDBModel.FK_RequestBlood_BloodDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="BBSystemDBModel.FK_Donor_BloodStock" ManuallyRouted="false" />
+        <AssociationConnector Association="BBSystemDBModel.FK_Employee_BloodStock" ManuallyRouted="false" />
+        <AssociationConnector Association="BBSystemDBModel.FK_Patient_BloodStock" ManuallyRouted="false" />
+        <AssociationConnector Association="BBSystemDBModel.FK_RequestBlood_BloodStock" ManuallyRouted="false" />
+        <AssociationConnector Association="BBSystemDBModel.FK_Donor_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="BBSystemDBModel.FK_Patient_Gender" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

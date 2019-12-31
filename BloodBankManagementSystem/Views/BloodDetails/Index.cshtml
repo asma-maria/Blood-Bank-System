@@ -1,0 +1,58 @@
+﻿@model IEnumerable<BloodBankManagementSystem.BloodDetail>
+
+@{
+    ViewBag.Title = "Index";
+}
+<link href="~/CustomsStyleSheet/indexemployeeSheet.css" rel="stylesheet" />
+<h1 class="text-right" style="font-family: 'Anton', sans-serif;">Blood Details List</h1>
+@if (User.IsInRole("Admin"))
+{
+<p>
+    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-danger", @style = "width: 200px; margin: 0 auto; display: block;" })
+</p>
+}
+
+<table class="table table-hover table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BloodName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BloodDescription)
+        </th>
+        @if (User.IsInRole("Admin"))
+        {
+    <th> Options</th>
+        }
+        
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.BloodName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BloodDescription)
+        </td>
+        @if (User.IsInRole("Admin"))
+        {
+        <td>
+            
+            <div class="dropdown">
+                <button class="btn btn-primary dropdown-toggle" type="button" id="about-us" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Options
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="about-us">
+                    <li>@Html.ActionLink("Edit", "Edit", new { id = item.BloodId })</li>
+                    <li>@Html.ActionLink("Details", "Details", new { id = item.BloodId })</li>
+                    <li>@Html.ActionLink("Delete", "Delete", new { id = item.BloodId })</li>
+                </ul>
+            </div>
+        </td>
+        }
+    </tr>
+}
+
+</table>

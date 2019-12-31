@@ -1,0 +1,106 @@
+﻿@model IEnumerable<BloodBankManagementSystem.RequestBlood>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/CustomsStyleSheet/indexemployeeSheet.css" rel="stylesheet" />
+
+<h1 class="text-right" style="font-family: 'Anton', sans-serif;">Blood Request List</h1>
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-danger", @style = "width: 200px; margin: 0 auto; display: block;" })
+    </p>
+
+   
+}
+
+<center>
+    @using (Html.BeginForm("Index", "RequestBloods", FormMethod.Get))
+        {
+    <span style="color:coral">Search By:</span>  @Html.RadioButton("searchBy", "Name")  <text>Name</text>
+    @Html.RadioButton("searchBy", "Gender")  <text>Gender</text>  <br />
+    @Html.TextBox("search")  <button type="submit" class="btn btn-danger">
+        <span class="glyphicon glyphicon-search"></span> Search
+    </button>
+
+        }
+
+</center>
+<br />
+<table class="table table-hover table-bordered table-condensed">
+    <tr>
+        <th>Name</th>
+        <th>Request Date</th>
+        <th>Age</th>
+        <th>Gender</th>
+        <th>Address</th>
+        <th>Contact No</th>
+        <th>About Blood</th>
+        <th>Blood Group</th>
+        @if (User.IsInRole("Admin"))
+                {
+        <th> Options</th>
+                }
+
+    </tr>
+    @if (Model.Count() == 0)
+        {
+    <tr>
+        <td colspan="10"><center style="color:white"> <span class="glyphicon glyphicon-exclamation-sign"></span> No rows match search criteria</center></td>
+    </tr>
+        }
+        else
+        {
+            foreach (var item in Model)
+            {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RequestDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Age)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gender)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ContactNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BloodDetail.BloodDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BloodStock.BloodName)
+        </td>
+        @if (User.IsInRole("Admin"))
+            {
+        <td>
+
+            <div class="dropdown">
+                <button class="btn btn-primary dropdown-toggle" type="button" id="about-us" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Options
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="about-us">
+                    <li>@Html.ActionLink("Edit", "Edit", new { id = item.RequestId })</li>
+                    <li> @Html.ActionLink("Details", "Details", new { id = item.RequestId })</li>
+                    <li> @Html.ActionLink("Delete", "Delete", new { id = item.RequestId })</li>
+                </ul>
+            </div>
+
+        </td>
+            }
+    </tr>
+            }
+        }
+
+</table>
